@@ -41,7 +41,7 @@ The game simulates a dynamic trading environment where players can execute trade
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/trading-sim.git
+   git clone --recurse-submodules https://github.com/your-repo/trading-sim.git
    cd trading-sim
    ```
 
